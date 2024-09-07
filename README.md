@@ -1,1 +1,1 @@
-# alx_be_shell
+a script to change user to betty
